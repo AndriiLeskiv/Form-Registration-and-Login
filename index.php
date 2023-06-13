@@ -8,6 +8,24 @@
     <title>Document</title>
 </head>
 <body>
+    <header>
+        <nav>
+            <div>
+                <h3>Testing</h3>
+                <ul>
+                    <li><a href="index.php">Home</a></li>
+                    <li><a href="#">Products</a></li>
+                    <li><a href="#">Sales</a></li>
+                    <li><a href="#">Member</a></li>
+                </ul>
+            </div>
+            <ul class="menu-member">
+                <li><a href="#">Sign Up</a></li>
+                <li><a href="#" class="header-login-a">Login</a></li>
+            </ul>
+        </nav>
+    </header>
+
     <section class="index-login">
         <div class="wrapper">
             <div class="index-login-signup">
